@@ -95,6 +95,25 @@ Atualmente trabalho desenvolvendo soluções de monitoramento e observabilidade 
 
 ---
 
+# ⭐ Projetos em destaque
+
+📡 Observability Platform
+LGTM Stack + OpenTelemetry + Kubernetes + Python
+
+📊 Zabbix Enterprise Templates
+Coleção de templates para Aruba, FortiGate, ClearPass, VMware, SimpliVity e outros.
+
+🏠 Olympus Homelab
+Meu laboratório pessoal para testes de Observabilidade, GitOps, SRE e Platform Engineering.
+
+🤖 Python Integrations
+Integrações REST para fabricantes e plataformas de monitoramento.
+
+📈 Data Ingestion Pipeline
+Pipeline para coleta, tratamento e disponibilização de métricas para Power BI.
+
+---
+
 # ☕ Curiosidade
 
 Além de passar boa parte do tempo montando plataformas de observabilidade...
